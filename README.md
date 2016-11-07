@@ -1,9 +1,10 @@
-# Computational Physics # 
-## Project Ideas ##
+# Computational Physics 
+## Project Ideas 
 
 These are some sample ideas for your computational physics project. Feel free to use them, modify them, or do something completely different!
 
 Your project should be challenging and physics based. The challenge may be:
+
 1. *Physical* - Simulate/examine a complicated physical system (e.g. Relativistic or Magneto hydrodynamics). 
 2. *Numerical* - You use a sophisticated numerical algorithm (e.g. tree/multigrid Poisson Solver, high order symplectic integrator, Richardson Extrapolation).
 3. *Technical* - Implement your project in a technically sophisticated way (e.g. run in parallel, or on a GPU).
